@@ -1,3 +1,7 @@
+## Deprecation note!
+
+**Please note: This repository is deprecated and it is no longer actively maintained**.
+
 # WS2812 RGB array example for FRDM-K64F
 
 This repository contains example software for controlling a WS2812 RGB LED array via network.
